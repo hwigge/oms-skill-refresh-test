@@ -28,5 +28,6 @@ Turn a rough idea into a design the user has approved before any code is written
 
 - Write the agreed design to a dated file under `docs/designs/`.
 - Do not start implementation until the user has approved the written design.
+- Link the design file in the first implementation commit.
 
 See [references/questions.md](references/questions.md) for starter questions.
