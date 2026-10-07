@@ -10,13 +10,13 @@ Turn a rough idea into a design the user has approved before any code is written
 ## Before asking anything
 
 - Read the project's README, recent commits and any existing design notes first.
-- Note the constraints you can already infer so you do not ask about them.
 
 ## Asking questions
 
-- Ask one question per message and wait for the answer.
+- Ask exactly one question per message, then wait for the answer before asking the next.
 - Prefer multiple-choice questions when the options are knowable.
 - Stop asking once purpose, constraints and success criteria are clear.
+- Summarise what you have understood before proposing anything.
 
 ## Proposing a design
 
