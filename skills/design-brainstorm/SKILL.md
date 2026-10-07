@@ -23,6 +23,7 @@ Turn a rough idea into a design the user has approved before any code is written
 - Offer two or three approaches with their trade-offs and say which you recommend.
 - Present the design in short sections and confirm each before moving on.
 - Keep the design proportional: a small change gets a few sentences, not a document.
+- Name the riskiest assumption in each approach.
 
 ## Finishing
 
