@@ -15,11 +15,13 @@ Turn a rough idea into a design the user has approved before any code is written
 
 - Ask exactly one question per message, then wait for the answer before asking the next.
 - Prefer multiple-choice questions when the options are knowable.
+- Ask about constraints before asking about preferences.
 - Stop asking once purpose, constraints and success criteria are clear.
 - Summarise what you have understood before proposing anything.
 
 ## Proposing a design
 
+- Restate the problem in one sentence before offering approaches.
 - Offer two or three approaches with their trade-offs and say which you recommend.
 - Present the design in short sections and confirm each before moving on.
 - Keep the design proportional: a small change gets a few sentences, not a document.
