@@ -1,6 +1,6 @@
 ---
 name: tiny-test
-description: Minimal skill for testing OMS GitHub skill add, edit and update.
+description: Tiny test skill for OMS source checks.
 ---
 
 # Tiny test
