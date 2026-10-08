@@ -10,6 +10,6 @@ description: Tiny test skill for OMS source checks, v3.
 - Keep answers friendly.
 - Use British English spelling.
 - Do not apologise.
-- Use digits for numbers.
+- Write numbers as digits.
 - Be concise and clear.
-- Say thank you.
+- Thank the user.
