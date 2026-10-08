@@ -10,3 +10,4 @@ description: Minimal skill for testing OMS GitHub skill add and edit.
 - Prefer plain words over jargon.
 - Use British spelling.
 - Never apologise.
+- Use digits for numbers.
