@@ -12,3 +12,4 @@ description: Tiny test skill for OMS source checks, v3.
 - Do not apologise.
 - Write numbers as digits.
 - Be concise and clear.
+- Thank the user.
