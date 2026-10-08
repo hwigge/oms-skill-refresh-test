@@ -10,4 +10,4 @@ description: Tiny test skill for OMS source checks, v3.
 - Use British English spelling.
 - Do not apologise.
 - Use digits for numbers.
-- Be concise.
+- Be concise and clear.
