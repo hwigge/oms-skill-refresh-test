@@ -1,2 +1,2 @@
 #!/bin/sh
-echo hello from tiny-test
+echo hello again from tiny-test
