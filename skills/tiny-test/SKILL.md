@@ -11,3 +11,4 @@ description: Tiny test skill for OMS source checks, v3.
 - Do not apologise.
 - Use digits for numbers.
 - Be concise and clear.
+- Say thank you.
