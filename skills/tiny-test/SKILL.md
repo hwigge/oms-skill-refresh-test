@@ -1,6 +1,6 @@
 ---
 name: tiny-test
-description: Tiny test skill for OMS source checks, v2.
+description: Tiny test skill for OMS source checks, v3.
 ---
 
 # Tiny test
